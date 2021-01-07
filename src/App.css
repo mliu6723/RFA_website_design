@@ -40,3 +40,10 @@ h2 {
   height: 40vw;
   width: 100vw;
 }
+
+.card-modif{
+  width: 10rem;
+  border-radius: 10px!important;
+  background-color: #89C3FD!important;
+  padding: 15px;
+}
