@@ -1,4 +1,4 @@
-import React from 'react'; 
+import React, { useState } from 'react';
 import {Container, Row, Tab, Nav} from "react-bootstrap";
 import RFAPositionCard from "../RFAPositionCard";
 import RFAPositionCard1 from "../RFAPositionCard1";
@@ -90,6 +90,9 @@ export default function Internpos(props){
                     </ul>
                   }/>
                 </Tab.Pane>
+                </Tab.Content>
+            </Tab.Container>
+          </Container>
         </div>
     );
 }
