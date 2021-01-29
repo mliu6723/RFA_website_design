@@ -17,7 +17,7 @@ export default class App extends React.Component{
               </header>
           </Container>
         </Row>
-        <RFAAffOrgs/>
+        <InernPos/>
 
         {/* <Container>
           <Row>
