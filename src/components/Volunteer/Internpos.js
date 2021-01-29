@@ -6,7 +6,7 @@ import RFAPositionCard2 from "../RFAPositionCard2";
 import Placeholder from "../../media/placeholder.png"
 // import {headerBlobYellow} from "../../media/HeaderBlobs/yellow.png";
 
-export default function Internpos(props){
+export default function InternPos(props){
   const [key, setKey] = useState("one")
   const ActiveStyle = {
     color: "#000000",
