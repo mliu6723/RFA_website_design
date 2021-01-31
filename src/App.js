@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {Container, Row} from 'react-bootstrap';
 import RFANavbar from "./components/RFANavbar";
 // import RFACard from "./components/RFACard";
-import InternPos from "./components/Volunteer/Internpos";
+import InternPos from "./components/Volunteer/InternPos";
 export default class App extends React.Component{
 
   render() {
